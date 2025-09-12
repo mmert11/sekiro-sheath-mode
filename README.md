@@ -21,3 +21,5 @@ start the game normally
 open an issue if you have any questions or recommends
 
 and yes it doesnt include the sheath animations, your blade just teleports to your sheath or hand
+
+![screenshot](ss.jpg)
