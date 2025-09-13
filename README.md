@@ -1,5 +1,5 @@
 # sekiro-sheath-mode
-this mod allows you to change the render status of your katana in sekiro in a ghetto way
+this mod allows you to change the render state of your katana in sekiro in a ghetto way
 
 press dpad down to toggle the flag
 
